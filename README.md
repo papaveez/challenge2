@@ -1,7 +1,7 @@
 # The Challenge 🏆
 
 > [!WARNING]  
-> Almost entirely vibecoded. Use at your own risk. This was a quick and dirty challenge tracking app.
+> Entirely vibecoded. Use at your own risk. This was a quick and dirty challenge tracking app.
 
 A group challenge tracker: the master user (**vas**) defines the challenges and starts
 the clock, everyone signs up and logs contributions (with optional photo proof), and a
