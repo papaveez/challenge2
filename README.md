@@ -3,6 +3,11 @@
 > [!WARNING]  
 > Entirely vibecoded. Use at your own risk. This was a quick and dirty challenge tracking app.
 
+> [!NOTE]
+> A frontend distribution has been provided in `frontend/dist`. Ideally you should build it yourself, but this makes it easier to get up and running without having to touch node.js at all.
+
+# LLMSpiel:
+
 A group challenge tracker: the master user (**vas**) defines the challenges and starts
 the clock, everyone signs up and logs contributions (with optional photo proof), and a
 leaderboard plus a per-person progress grid show how the group is doing.
